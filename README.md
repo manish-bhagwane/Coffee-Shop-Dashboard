@@ -85,4 +85,4 @@ This dashboard provides a visual overview of monthly coffee shop performance, he
 4. Enables faster, data-backed decision making for improving revenue and customer satisfaction.
 
 ### 6.	Screenshots / Demos
-![Dashboard Preview](https://github.com/manish-bhagwane/Blinkit-Dashboard/blob/main/Snapshot%20Of%20Blinkit%20Dashboard.png)
+![Dashboard Preview](https://github.com/manish-bhagwane/Coffee-Shop-Dashboard/blob/main/Dashboard%20Of%20Coffee%20Sales..png)
